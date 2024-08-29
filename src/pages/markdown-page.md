@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: Welcome to Salestools
 ---
 
-# Markdown page example
+# Welcome to Salestools
 
-You don't need React to write simple standalone pages.
+Time to do magic

@@ -2,46 +2,72 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Get Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Salestools is easy and take 5 minutes to get started in this Hub you will find all the questions customers has been asking us and we keep updating it to make Salestools the easiest go to market platform for LinkedIn, Email and AI automations.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Go to connect with **[LinkedIn in Salestools Connect my Linkedin Account to Salestools](https://platform.usedemand.com/linkedin)**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Watch to learn how easy it is in one click to sync your LinkedIn account with Salestools:
 
-### What you'll need
+ <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/wWQYk8CCBZo"
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+### Build your First Automation with AI
 
-Generate a new Docusaurus site using the **classic template**.
+It is easy to build an AI automation simply follow this guide or hit automation section on the left.
 
-The classic template will automatically be added to your project after you run the command:
+![Example Image](./automationai.png)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+When selecting the two options you can learn what they mean right here:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+- 1-1 + AI + Message Review simply means you get to review/edit before sending and once you hit send all steps are automated for the prospect from that point.
+- 1-1 + Automated AI - You got full trust in AI doing all the writing for the parts you select AI to write and it will automatically send all steps once you start the automation.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Watch here how to see how you will setup your first AI Automation:
+ <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/ASWXDwa9uZI" 
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
 
-## Start your site
+## Integrate your CRM
 
-Run the development server:
+Lets integrate your **[CRM Hubspot, Pipedrive, Salesforce, MS Dynamics etc.](https://platform.usedemand.com/integration)**.
 
-```bash
-cd my-website
-npm run start
-```
+We have 15 native CRM integrations all with one click.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## Integrate your Email to Salestools
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+By adding your Email you will be able to run Multi Touch campaigns and reach your ideal customer profiles on both email and LinkedIn.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+ <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/13WDbnQmuwU" 
+        title="YouTube video player"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+      ></iframe>
+
+Follow the given steps to connect your account:
+
+1. Head over to your Admin Panel (https://admin.google.com/u/1/ac/owl/list?tab=configuredApps)
+2. Add Salestools's OAuth App using this Client ID 205009932925-gsdstosg9b4q5pu5tu74c6o5ssfkrqcm.apps.googleusercontent.com
+3. Save it and add for entire domain, and Scope as trusted
+4. Go to Salestools and add the email in one click
